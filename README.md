@@ -1,4 +1,8 @@
-# simple-git-cli
+# [deprecated]simple-git-cli
+
+## 別プロジェクトに移行しました。
+
+今後は、https://www.npmjs.com/package/begit で開発を行っていきます。
 
 ## 概要
 
