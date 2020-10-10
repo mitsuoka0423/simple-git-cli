@@ -1,5 +1,12 @@
 # simple-git-cli
 
+## 概要
+
+Simple Git CLIはプログラム初学者のためのツールです。
+GitHubのアカウントがあれば、3ステップでプログラムをGitHubにアップロードすることができます。
+詳しい手順はこちらの記事を参照してください。
+⇢ [Gitをシンプルに使えるCLIツール作った - simple-git-cli](https://zenn.dev/tmitsuoka0423/articles/b3af045e017b8efd2f61)
+
 ## インストール
 
 ```bash
