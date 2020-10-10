@@ -17,7 +17,10 @@ export default async (name) => {
     const res = await asyncExec(`git init`);
 
     if (res.includes('Reinitialized existing Git repository')) {
-      console.log('このフォルダは準備済みです。');
+      console.log('プロジェクト作成済みです。');
+      console.log(`新しいファイルをアップロードする場合は、以下のコマンドを実行してください。`);
+      console.log(`$ sgit upload`);
+      console.log();
       return;
     }
 

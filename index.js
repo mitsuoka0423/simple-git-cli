@@ -5,7 +5,7 @@ import init from './actions/init.js';
 import create from './actions/create.js';
 import upload from './actions/upload.js';
 
-program.version('0.2.2');
+program.version('0.3.0');
 
 program
     .command('init')
